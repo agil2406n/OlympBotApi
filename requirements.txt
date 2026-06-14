@@ -1,0 +1,3 @@
+olymptrade-ws
+asyncio
+python-dotenv
